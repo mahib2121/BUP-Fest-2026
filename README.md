@@ -722,8 +722,8 @@ Each hour represents a whole-hour interval.
 Clone the repository:
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd <YOUR_REPOSITORY>/backend
+git clone (https://github.com/mahib2121/BUP-Fest-2026)
+cd /backend
 ```
 
 Create the environment file:
